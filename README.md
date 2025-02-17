@@ -27,4 +27,4 @@ The `SurfsUp` folder contains:
 
 The `Resources` folder contains:
 - The `hawaii.sqlite` database file with all climate data
-- Two CSV files for easier view of each table in the database (`hawaii_measurements` and `hawaii_stations`)
+- Two CSV files for easier view of each table in the database (`hawaii_measurements.csv` and `hawaii_stations.csv`)
